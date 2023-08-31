@@ -8,7 +8,7 @@ Passionate IT student skilled in Python, data analysis, and automation. GitHub c
 - 🤔 I’m looking for help with optimizing data cleaning techniques and enhancing data visualization.
 - 💬 Ask me about data analysis, Python programming, and automation.
 - 📫 How to reach me: Listed below!
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Who/Where
 - ⚡ Fun fact: I love exploring new hiking trails and capturing moments through photography.
 
 Connect with me on my social media platforms:
