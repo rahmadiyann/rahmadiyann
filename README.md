@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello, I'm Rahmadiyan Muhammad 👋 
 
-<!--
-**rianying/rianying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate IT student skilled in Python, data analysis, and automation. GitHub contributor and Medium writer. Seeking data-driven opportunities to innovate and excel.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on automating data processing and analysis projects.
+- 🌱 I’m currently learning about machine learning and advanced data visualization.
+- 👯 I’m looking to collaborate on open-source Python projects and data analysis initiatives.
+- 🤔 I’m looking for help with optimizing data cleaning techniques and enhancing data visualization.
+- 💬 Ask me about data analysis, Python programming, and automation.
+- 📫 How to reach me: Listed below!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new hiking trails and capturing moments through photography.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on my social media platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rahmadiyanmuhammad/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://www.medium.com/@rahmadiyanmuhammad)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/rianying)
