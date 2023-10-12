@@ -3,13 +3,13 @@
 Passionate IT student skilled in Python, data analysis, and automation. GitHub contributor and Medium writer. Seeking data-driven opportunities to innovate and excel.
 
 - 🔭 I’m currently working on automating data processing and analysis projects.
-- 🌱 I’m currently learning about machine learning and advanced data visualization.
-- 👯 I’m looking to collaborate on open-source Python projects and data analysis initiatives.
-- 🤔 I’m looking for help with optimizing data cleaning techniques and enhancing data visualization.
-- 💬 Ask me about data analysis, Python programming, and automation.
+- 🌱 I’m currently learning about machine learning, advanced data visualization and data engineering using Talend.
+- 👯 I’m looking to collaborate on open-source Python projects and data engineering initiatives.
+- 🤔 I’m looking for help with optimizing data transforming techniques and technologies.
+- 💬 Ask me about data engineering, Python programming, and automation.
 - 📫 How to reach me: Listed below!
 - 😄 Pronouns: Who/Where
-- ⚡ Fun fact: I love exploring new hiking trails and capturing moments through photography.
+- ⚡ Fun fact: I love exploring new hiking trails.
 
 Connect with me on my social media platforms:
 
