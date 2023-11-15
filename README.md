@@ -16,4 +16,3 @@ Connect with me on my social media platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rahmadiyanmuhammad/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://www.medium.com/@rahmadiyanmuhammad)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/rianying)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check-red)](https://rian.social)
