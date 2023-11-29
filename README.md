@@ -12,7 +12,7 @@
 </div>
 
 - 👯 &ensp;I’m looking to collaborate with others
-- 🗿 &ensp;I'm on a pursue on data engineerin expertise
+- 🗿 &ensp;I'm on a pursue on data engineering expertise
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
 ## Ability Stats
 <details open="">
