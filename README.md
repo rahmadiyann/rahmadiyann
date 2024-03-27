@@ -8,7 +8,7 @@
 [![Instagram: Rahmadiyan M](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/rianying/)][instagram]
 [![GitHub followers](https://img.shields.io/github/followers/rianying?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Rahmadiyan Muhammad](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rahmadiyan)][linkedin]
-[![Linkedin: Rahmadiyan Muhammad](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rahmadiyan)][personal-portfolio]
+[![Personal Portoflio](https://img.shields.io/badge/Personal_Portfolio)][personal-portfolio]
 
 </div>
 
