@@ -8,6 +8,7 @@
 [![Instagram: Rahmadiyan M](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/rianying/)][instagram]
 [![GitHub followers](https://img.shields.io/github/followers/rianying?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Rahmadiyan Muhammad](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rahmadiyan)][linkedin]
+[![Linkedin: Rahmadiyan Muhammad](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rahmadiyan)][personal-portfolio]
 
 </div>
 
@@ -53,3 +54,4 @@
 [github]: https://github.com/rianying
 [instagram]: https://www.instagram.com/rianying/
 [email]: rahmadiyanmuhammad12@gmail.com/
+[personal-portfolio]: https://www.rian.social/
