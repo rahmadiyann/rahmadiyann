@@ -14,7 +14,7 @@
 - 👯 &ensp;I’m looking to collaborate with others
 - 🗿 &ensp;I'm on a pursue on data engineering expertise
 - 📫 &ensp;How to reach me: [**Instagram**][instagram] or [**Email**][email]
-## Ability Stats
+## Ability
 <details open="">
   <summary><b> ⚙️ Tech Stack </b></summary>
 </br>
@@ -27,6 +27,9 @@
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/2560px-RabbitMQ_logo.svg.png" alt="rabbitmq" width="40px" />
     <img align="left" alt="gcp" width="40px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />   
     <img align="left" alt="django" width="40px" src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png"/>
+    <img align="left" alt="flask" width="40px" src="https://www.jumpingrivers.com/blog/python-api-deployment-rstudio-flask/flask.png"/>
+    <img align="left" alt="flink" width="40px" src="https://www.driven.io/wp-content/uploads/2016/02/flink-logo.png"/>
+    <img align="left" alt="hdfs" width="40px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_689ac3b637ca780ceb5591a5a9bde905/hadoop-hdfs.png"/>
   </div>
   </br>
 </details>
