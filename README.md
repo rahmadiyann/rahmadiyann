@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/rianying/"></a></h1>
+<h1 align="center"> Hi 👋, My name is <a href="https://www.instagram.com/rianying/"></a></h1>
 <div align="center">
 
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/rianying/rianying)
