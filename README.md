@@ -54,4 +54,4 @@
 [github]: https://github.com/rahmadiyann
 [instagram]: https://www.instagram.com/rahmadiyann_/
 [email]: muhammad@rahmadiyan.my.id
-[personal-portfolio]: https://www.rian.social/
+[personal-portfolio]: https://rahmadiyan.my.id/
