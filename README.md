@@ -51,7 +51,7 @@
 </br>
 
 [linkedin]:https://www.linkedin.com/in/rahmadiyan/
-[github]: https://github.com/rianying
-[instagram]: https://www.instagram.com/rianying/
-[email]: rahmadiyanmuhammad12@gmail.com/
+[github]: https://github.com/rahmadiyann
+[instagram]: https://www.instagram.com/rahmadiyann_/
+[email]: muhammad@rahmadiyan.my.id
 [personal-portfolio]: https://www.rian.social/
