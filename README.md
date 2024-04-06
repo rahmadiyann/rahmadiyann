@@ -1,12 +1,12 @@
-<h1 align="center"> Hi 👋, My name is <a href="https://www.instagram.com/rianying/"></a></h1>
+<h1 align="center"> Hi 👋, My name is <a href="https://www.instagram.com/rahmadiyann_/"></a></h1>
 <div align="center">
 
-[![jasineri/gitartwork](gitartwork.svg)](https://github.com/rianying/rianying)
+[![jasineri/gitartwork](gitartwork.svg)](https://github.com/rahmadiyann/rahmadiyann)
 </div>
 <div align="center">
 
-[![Instagram: Rahmadiyan M](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/rianying/)][instagram]
-[![GitHub followers](https://img.shields.io/github/followers/rianying?logo=GitHub&style=for-the-badge)][github]
+[![Instagram: Rahmadiyan M](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/rahmadiyann_/)][instagram]
+[![GitHub followers](https://img.shields.io/github/followers/rahmadiyann?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Rahmadiyan Muhammad](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rahmadiyan)][linkedin]
 [![Personal Portoflio](https://img.shields.io/badge/Personal-Portfolio-blue?style=for-the-badge)][personal-portfolio]
 
